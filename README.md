@@ -9,6 +9,7 @@ alt="sample image"></a>
 - [x][게임](http://github.com "게임")
 - [x]웹
 - [x]음악
+- - [x] this is a complete item
 
 
 ## 🌟 주요 경력 및 성과
