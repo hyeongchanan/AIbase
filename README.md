@@ -19,7 +19,7 @@ alt="sample image"></a>
 - 데이터베이스: [데이터베이스 #1, #2, ...]
 
 ## 📫 연락 방법
-- 이메일: <a href="#">hcan1223@naver.com</a>
+- 이메일: <a href="https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fmail.naver.com%2F">hcan1223@naver.com</a>
 - LinkedIn: [LinkedIn 프로필 링크]
 - Twitter: [Twitter 계정 링크] (해당하는 경우)
 
