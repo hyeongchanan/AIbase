@@ -19,7 +19,7 @@ alt="sample image"></a>
 - 데이터베이스: [데이터베이스 #1, #2, ...]
 
 ## 📫 연락 방법
-- 이메일: [GitHub](https://www.naver.com/ "hcan1223@naver.com")
+- 이메일: [GitHub](http://www.naver.com "hcan1223@naver.com")
 - LinkedIn: [LinkedIn 프로필 링크]
 - Twitter: [Twitter 계정 링크] (해당하는 경우)
 
