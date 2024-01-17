@@ -13,7 +13,7 @@ alt="sample image"></a>
 ## 🌟 주요 경력 및 성과
 - [경력 또는 성과 #1]
 - [경력 또는 성과 #2]
-- [기타 경력 또는 성과]
+-`printf("hello world!");`
 
 ## 💻 기술 스택
 - 언어: c++, pythonm, java
