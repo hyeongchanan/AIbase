@@ -1,4 +1,6 @@
 # 안녕하세요, 안형찬 입니다!
+<a href="#"><img src="https://github.com/..각자절대경로../images/markdown_syntax.jpg" width="400px"
+alt="sample image"></a> 
 
 ## 👋 소개
 안녕하세요, 저는 대학생으로 활동 중인 안형찬 입니다. 컴퓨터공학 에 관심이 많으며, 부산대학교 정보컴퓨터공학과를 재학 중 입니다.
@@ -9,6 +11,8 @@
 - 음악
 
 ## 🌟 주요 경력 및 성과
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
 - [경력 또는 성과 #1]
 - [경력 또는 성과 #2]
 - [기타 경력 또는 성과]
