@@ -26,7 +26,3 @@ alt="sample image"></a>
 
 ## ⚡ 재미있는 사실
 - 주민번호 앞자리가 **01 12 23** 입니다. 외우기 쉽지 않나요?
-- ＼*literal asterisks＼*
-*literal asterisks*
-__＼*＼*Text＼*＼*__
-_＼_Tom＼__
