@@ -1,5 +1,5 @@
 # 안녕하세요, 안형찬 입니다!
-<a href="#"><img src="https://github.com/..각자절대경로../images/markdown_syntax.jpg" width="400px"
+<a href="#"><img src="https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg" width="400px"
 alt="sample image"></a> 
 
 ## 👋 소개
