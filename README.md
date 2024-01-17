@@ -6,14 +6,9 @@ alt="sample image"></a>
 안녕하세요, 저는 대학생으로 활동 중인 안형찬 입니다.고양이에 관심이 많으며, 부산대학교에 재학 중 입니다.
 
 ## 🔍 관심사
-- [게임](http://github.com "게임")
-- 웹
-- 음악
-- ------------ | -------------
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
+- [x][게임](http://github.com "게임")
+- [x]웹
+- [x]음악
 
 
 ## 🌟 주요 경력 및 성과
